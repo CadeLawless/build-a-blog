@@ -1,0 +1,6 @@
+CREATE TABLE blogs (
+    ID INT(11) PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(255)
+);
+
+INSERT INTO blogs (title) VALUES("Billy Bob");
