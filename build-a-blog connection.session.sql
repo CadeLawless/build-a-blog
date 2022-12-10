@@ -3,4 +3,3 @@ CREATE TABLE blogs (
     title VARCHAR(255)
 );
 
-INSERT INTO blogs (title) VALUES("Billy Bob");
